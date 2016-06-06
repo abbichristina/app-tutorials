@@ -53,7 +53,7 @@ Pin 的剪贴板提供了丰富的偏好设置，例如可以设置通知中心�
 
 ### 2. 如何处理文本
 
-Pin 的动作模块在打开的时候，会将一个占位符替换成剪贴板的内容，例如打开 Google 的动作是：https://www.google.com/，如果你希望打开 Google 同时搜索剪贴板的话，动作将会是：https://www.google.com/#newwindow=1&q=%@
+Pin 的动作模块在打开的时候，会将一个占位符替换成剪贴板的内容，例如打开 Google 的动作是：https://www.google.com/ 如果你希望打开 Google 同时搜索剪贴板的话，动作将会是：https://www.google.com/#newwindow=1&q=%@
 
 上面的 %@ 就是将会被剪贴板代替的内容，在编写其他动作的时候也是同样的道理。
 
