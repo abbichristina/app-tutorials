@@ -8,6 +8,7 @@
 - `辅助功能` Prefs:root=General&path=ACCESSIBILITY
 - `关于手机` Prefs:root=General&path=About
 - `键盘设置` Prefs:root=General&path=Keyboard
+- `显示设置` Prefs:root=DISPLAY
 - `声音设置` Prefs:root=Sounds
 - `App Store 设置` Prefs:root=STORE
 - `墙纸设置` Prefs:root=Wallpaper
