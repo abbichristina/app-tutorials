@@ -11,3 +11,9 @@
 - `声音设置` Prefs:root=Sounds
 - `App Store 设置` Prefs:root=STORE
 - `墙纸设置` Prefs:root=Wallpaper
+- `打开电话` Mobilephone://
+- `世界时钟` Clock-worldclock://
+- `闹钟` Clock-alarm://
+- `秒表` Clock-stopwatch://
+- `倒计时` Clock-timer://
+- `打开相册` Photos://
