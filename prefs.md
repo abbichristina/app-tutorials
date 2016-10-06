@@ -3,7 +3,7 @@
 - `蜂窝数据` Prefs:root=MOBILE_DATA_SETTINGS_ID
 - `Wi-Fi 设置` Prefs:root=WIFI
 - `蓝牙设置` Prefs:root=Bluetooth
-- `定位设置` Prefs:root=LOCATION_SERVICES
+- `定位设置` Prefs:root=Privacy&path=LOCATION
 - `辅助功能` Prefs:root=General&path=ACCESSIBILITY
 - `关于手机` Prefs:root=General&path=About
 - `键盘设置` Prefs:root=General&path=Keyboard
