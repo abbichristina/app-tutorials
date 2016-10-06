@@ -1,5 +1,6 @@
 - `电池电量` Prefs:root=BATTERY_USAGE
 - `通用设置` Prefs:root=General
+- `存储空间` Prefs:root=General&path=STORAGE_ICLOUD_USAGE/DEVICE_STORAGE
 - `蜂窝数据` Prefs:root=MOBILE_DATA_SETTINGS_ID
 - `Wi-Fi 设置` Prefs:root=WIFI
 - `蓝牙设置` Prefs:root=Bluetooth
@@ -7,7 +8,6 @@
 - `辅助功能` Prefs:root=General&path=ACCESSIBILITY
 - `关于手机` Prefs:root=General&path=About
 - `键盘设置` Prefs:root=General&path=Keyboard
-- `亮度设置` Prefs:root=Brightness
 - `声音设置` Prefs:root=Sounds
 - `App Store 设置` Prefs:root=STORE
 - `墙纸设置` Prefs:root=Wallpaper
