@@ -1,3 +1,5 @@
+此列表之后将会在：[iOS URL Schemes](https://github.com/cyanzhong/app-tutorials/blob/master/schemes.md) 进行维护
+
 - `电池电量` Prefs:root=BATTERY_USAGE
 - `通用设置` Prefs:root=General
 - `存储空间` Prefs:root=General&path=STORAGE_ICLOUD_USAGE/DEVICE_STORAGE
