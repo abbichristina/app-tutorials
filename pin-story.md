@@ -7,17 +7,21 @@
 2015年9月2日，我为「Pin - 剪贴板扩展」这个项目写下了第一行代码，当时的想法非常简单：**市面上已经有太多的剪贴板工具和启动器工具了，我希望通过一种新的方式将这两种工具有机的结合起来**。
 
 【最早的代码】
+
 ![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/pin-story/the-first-line-code.png)
 
 大约在两三周后我发布了 Pin 的第一个版本，那时候 Pin 极为轻巧（不到 1M），图标和界面都很简陋，如果还有人记得的话：
 
 【图标】
+
 ![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/pin-story/pin-1.0-icon.jpg)
 
 【通知中心】
+
 ![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/pin-story/pin-1.0-screenshot-1.jpg)
 
 【主界面】
+
 ![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/pin-story/pin-1.0-screenshot-2.jpg)
 
 是的，这是一个纯粹由工程师自己的需求发起的，短期内完成的作品，可能大家一看到这个颜值都不会想要去下载。
