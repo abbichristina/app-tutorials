@@ -72,17 +72,29 @@ JSBox 不是为这一类人做的：希望应用打开后就是一个完美的�
 
 # 有趣的示例
 
-说了那么多，我希望通过一些 GIF 图片来展现一下 JSBox 实现的一些有趣的样例，借此能对 JSBox 有一个认识。
+说了那么多，我希望通过一些 GIF 图片来展现一下 JSBox 实现的一些有趣的样例，借此能对 JSBox 有一个认识（请忽略 GIF 质量带来的色差和卡顿）。
 
-**PLACEHOLDER**
+## 从 App Store 获取资源
 
-**PLACEHOLDER**
+![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/app-icon.gif)
 
-**PLACEHOLDER**
+## 以图搜图
 
-**PLACEHOLDER**
+![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/image-search.gif)
 
-**PLACEHOLDER**
+## 汇率转换
+
+![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/currency.gif)
+
+## 小费计算器
+
+![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/tip-calc.gif)
+
+## 拼音转换
+
+![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/pinyin.gif)
+
+当然，JSBox 能做的事情还有很多，我们之后将会提供更多的样例脚本和更详细的教程。
 
 # 下一个里程碑
 
