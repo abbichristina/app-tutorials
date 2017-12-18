@@ -18,6 +18,32 @@ JSBox 是一个可以用来运行 JavaScript 脚本的 iOS 应用，你可以通
 
 所以，JSBox 并不是像 Pythonista 那样为了编写代码而生的应用，编写代码只是实现功能的手段，我们的一切最终都是为了效率的提高。
 
+# 有趣的示例
+
+我希望通过一些 GIF 图片来展现一下 JSBox 实现的一些有趣的样例，借此能对 JSBox 有一个认识（请忽略 GIF 质量带来的色差和卡顿）。
+
+## 从 App Store 获取资源
+
+![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/app-icon.gif)
+
+## 以图搜图
+
+![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/image-search.gif)
+
+## 汇率转换
+
+![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/currency.gif)
+
+## 小费计算器
+
+![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/tip-calc.gif)
+
+## 拼音转换
+
+![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/pinyin.gif)
+
+当然，JSBox 能做的事情还有很多，我们之后将会提供更多的样例脚本和更详细的教程。
+
 # 为什么要开发这个应用
 
 其实 JSBox 诞生和 Pin 3.0 有着千丝万缕的关系。
@@ -69,32 +95,6 @@ JSBox 不是为这一类人做的：希望应用打开后就是一个完美的�
 同时欢迎各路对编程感兴趣的朋友来完善这个项目，尤其当你发现自己的一个需求用 JSBox 实现不了时，请一定通过应用内的反馈方式联系到我，合理的需求都会被尽快满足。
 
 出于审核限制的原因，我们并不会将上述的一些样例代码以在线下载的方式提供到 JSBox 应用内，但你完全可以自己实现一个下载工具把脚本安装进去。
-
-# 有趣的示例
-
-说了那么多，我希望通过一些 GIF 图片来展现一下 JSBox 实现的一些有趣的样例，借此能对 JSBox 有一个认识（请忽略 GIF 质量带来的色差和卡顿）。
-
-## 从 App Store 获取资源
-
-![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/app-icon.gif)
-
-## 以图搜图
-
-![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/image-search.gif)
-
-## 汇率转换
-
-![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/currency.gif)
-
-## 小费计算器
-
-![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/tip-calc.gif)
-
-## 拼音转换
-
-![image](https://raw.githubusercontent.com/cyanzhong/app-tutorials/master/asset/pinyin.gif)
-
-当然，JSBox 能做的事情还有很多，我们之后将会提供更多的样例脚本和更详细的教程。
 
 # 下一个里程碑
 
