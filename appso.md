@@ -8,27 +8,27 @@ JSBox 的核心设计和这一样，是一个通过脚本语言来实现各种 i
 
 通过推送通知执行脚本，查询数据（[点击安装](https://xteko.com/redir?url=https%3a%2f%2fraw.githubusercontent.com%2fcyanzhong%2fxTeko%2fmaster%2fextension-scripts%2ffund-data.js)）：
 
-![推送通知]()
+![推送通知](https://github.com/cyanzhong/app-tutorials/raw/master/asset/jsbox-notification.gif)
 
 实现一个属于自己的键盘，比如这个短语键盘（[点击安装](https://xteko.com/redir?url=https%3a%2f%2fgithub.com%2fcyanzhong%2fxTeko%2fraw%2fmaster%2fextension-demos%2fkeyboard.box)）：
 
-![键盘]()
+![键盘](https://github.com/cyanzhong/app-tutorials/raw/master/asset/jsbox-keyboard.gif)
 
 制作一个自己的通知中心小组件，例如年进度（[点击安装](https://xteko.com/redir?name=Progress&url=https%3A%2F%2Folx97w61o.qnssl.com%2FProgress.box&types=3)）：
 
-![小组件]()
+![小组件](https://github.com/cyanzhong/app-tutorials/raw/master/asset/jsbox-progress.gif)
 
 实现一个生成 Surge 规则的工具（[点击安装](https://xteko.com/redir?name=Rules-lhie1&url=https%3a%2f%2fraw.githubusercontent.com%2fFndroid%2fjsbox_script%2fmaster%2fRules-lhie1%2f.output%2fRules-lhie1.box)）：
 
-![小应用]()
+![小应用](https://github.com/cyanzhong/app-tutorials/raw/master/asset/jsbox-surge.gif)
 
 制作一个练习日语五十音的小应用（[点击安装](https://t.me/Flow_Script/386)）：
 
-![小应用]()
+![小应用](https://github.com/cyanzhong/app-tutorials/raw/master/asset/jsbox-50.gif)
 
 制作一个 App Store 资源获取工具（[点击安装](https://xteko.com/redir?name=iTunes%20Utilities&url=https%3A%2F%2Fgithub.com%2Faxelburks%2FJSBox%2Fraw%2Fmaster%2FiTunes%2520Utilities%2F.output%2FiTunes%2520Utilities.box)）：
 
-![小工具]()
+![小工具](https://github.com/cyanzhong/app-tutorials/raw/master/asset/jsbox-itunes.gif)
 
 这些现成的脚本你只需点击上面的链接，就可以根据提示安装到 JSBox 上使用了。
 
@@ -64,11 +64,11 @@ JSBox 的核心设计和这一样，是一个通过脚本语言来实现各种 i
 
 首先我们对通知中心做了改造，现在我们的通知中心小组件极为强大，不仅不会因为内存不足而崩溃，甚至支持滚动操作，很大程度上使用起来已经和在应用内没有区别，比如这个例子（[点击安装](https://xteko.com/redir?url=https%3a%2f%2fraw.githubusercontent.com%2fcyanzhong%2fxTeko%2fmaster%2fextension-scripts%2fdoutu.js&icon=055)）：
 
-![斗图]()
+![斗图](https://github.com/cyanzhong/app-tutorials/raw/master/asset/jsbox-doutu.gif)
 
 另外，我们已经支持了 Safari 扩展，也就是说你可以写脚本来控制 Safari 的行为。这套方案让很多想法成为可能，我们准备了这个脚本来作为样例（[点击安装](https://xteko.com/redir?url=https%3A%2F%2Fgithub.com%2Fcyanzhong%2FxTeko%2Fraw%2Fmaster%2Fextension-scripts%2Fsafari-extensions.box&name=Safari+Extensions)）：
 
-![Safari 扩展]()
+![Safari 扩展](https://github.com/cyanzhong/app-tutorials/raw/master/asset/jsbox-safari.gif)
 
 这个脚本可以在 Safari 上面运行 Firebug/Eruda/vConsole 等知名调试工具，对 Web 开发者来说是一个非常不错的小工具。理论上这个方案可以支持更多的内容，比如[简悦](http://ksria.com/simpread/)也成功地通过 JSBox 运行在了 iOS Safari 上。我们相信这是一个潜力巨大的特性，未来一定会有更多有意思的内容出现。
 
