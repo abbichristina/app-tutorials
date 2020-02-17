@@ -68,15 +68,7 @@ P.S. 最棒的是，你可以用 GitBox 来检出下面的项目，因为他们�
 
 ![youtube-dl](https://github.com/cyanzhong/app-tutorials/raw/master/asset/0217-02.png)
 
-这个样例基于 [ytdl-core](https://www.npmjs.com/package/ytdl-core)， 可以在[这里](https://github.com/cyanzhong/jsbox-youtube-dl)找到。
-
-## 下载磁力链接
-
-想要下载磁力链接也不是什么难事，复制链接打开这个脚本就好了：
-
-![磁力链接](https://github.com/cyanzhong/app-tutorials/raw/master/asset/0217-03.png)
-
-这个样例基于 [webtorrent](http://webtorrent.io/)，可以在[这里](https://xteko.com/install?id=154&lang=zh-Hans)下载。
+这个样例基于 [ytdl-core](https://www.npmjs.com/package/ytdl-core)， 可以在[这里](https://github.com/cyanzhong/jsbox-youtube-dl)找到。另外，[webtorrent](http://webtorrent.io/) 项目也是使用 Node.js 编写，也可以在 JSBox 2.0 上面[直接使用](https://github.com/cyanzhong/jsbox-webtorrent-demo)。
 
 ## 开发 React.js 程序
 
