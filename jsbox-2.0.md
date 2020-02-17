@@ -34,13 +34,13 @@
 
 如果你对 Node.js 的概念感到一头雾水，那么接下来我们会通过一些实际的例子来介绍 Node.js 如何让 JSBox 更实用。
 
-## 使用 Express 构建网页
+## 使用 Express 构建网站
 
 [Express](https://expressjs.com/) 是一个著名的 Web 应用开发框架，基于 Node.js。在 JSBox 里面新建一个 Node 模块时，你会看到这个样例代码：
 
 ![Express](https://github.com/cyanzhong/app-tutorials/raw/master/asset/0217-00.png)
 
-运行起来之后，将会看到 Safari 打开了一个网页，而网页背后的应用服务器，正是由 Express 所提供。这是一个简单的样例，用于展示一个 Node 模块如何工作。
+运行起来之后，将会看到 Safari 打开了一个网站，而网站背后的应用服务器，正是由 Express 所提供。这是一个简单的样例，用于展示一个 Node 模块如何工作。
 
 ## 为 JSBox 提供 Git 支持
 
@@ -123,4 +123,4 @@ JSBox 2.0 虽然采用了订阅解锁功能的机制，但相较于“不订阅�
 
 # 最后
 
-希望 2.0 是 JSBox 的新开始，因为我们还有很多事情要做去推动它变得更好。
+希望 2.0 是 JSBox 的新开始，因为我们还有很多事情要做去推动它变得更好，感谢大家的支持。
